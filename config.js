@@ -58,7 +58,7 @@ global.rpg = {
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
-global.unavailable = false;     
+global.unavailable = true;     
 //to show your real presence  
 global.available = true;   
 // to show always online  

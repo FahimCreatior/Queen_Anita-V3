@@ -4,8 +4,8 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '254797992027'
+global.nomerowner = ["254797992027"]
 
 // Apikey 
 
@@ -58,9 +58,9 @@ global.rpg = {
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
-global.unavailable = true;     
+global.unavailable = false;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
 global.autoreadmessages = false;   
 ///To always read messages
@@ -69,7 +69,7 @@ global.autoreact = false;
 
 global.welcome = false;
 
-global.prefix = '.';
+global.prefix = ',';
 
 global.autobio = false;
 
